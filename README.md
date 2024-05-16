@@ -1,21 +1,3 @@
-![cover-sokol-background](/public/hato-light.jpg)
-
-# Hato | Minimal Portfolio Showcase with Nuxt UI
-
-Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
-
-- [Demo here](https://hato-template.vercel.app/)
-
-## About
-
-A minimal and elegant template, created with the purpose of serving as a landing page or one-page template, designed for those seeking simplicity and impeccably crafted web elements.
-
-Tailored for designers, agencies, or studios, this template is built with Nuxt 3, Nuxt UI, and TailwindCSS, bringing the best of web technology to the forefront.
-
-- **Pages:** 1
-- **Sections:** 1
-- **Components:** 7
-
 ## Features
 
 - 💚 [Nuxt 3](https://nuxt.com/) - Open source framework that makes web development intuitive and powerful.
